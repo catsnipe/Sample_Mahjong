@@ -1,0 +1,16 @@
+/*.csproj
+/*.csproj.user
+/.vsconfig
+/Assets/StreamingAssets_RawData/storage
+/Build
+/Temp
+/obj
+/Library
+/Logs
+/.vs
+/*.sln
+/SwitchIL2CPPCache
+/SwitchIL2CPPStats
+/save
+/savedata
+~$*
